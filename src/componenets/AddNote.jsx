@@ -1,3 +1,5 @@
+import React from "react";
+
 const AddNote = ({ title, setTitle, content, setContent, onAddNote }) => {
   return (
     <div>
